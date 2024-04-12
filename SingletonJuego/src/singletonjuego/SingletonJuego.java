@@ -9,13 +9,6 @@ public class SingletonJuego {
     unicaInstancia.setMaxIntentos(2);
     unicaInstancia.setRondas(10);
     unicaInstancia.setAlias("Kike");
-    
-    
-    
-    
-        
-        
-        
         
     }
     
